@@ -1,6 +1,7 @@
 # HTML5
 
-![HTML](https://user-images.githubusercontent.com/106934852/201491297-c019e5c3-135c-44a7-912b-2f50a3afaee5.jpg)
+<!-- ![HTML](https://user-images.githubusercontent.com/106934852/201491297-c019e5c3-135c-44a7-912b-2f50a3afaee5.jpg) -->
+![HTML gif](https://user-images.githubusercontent.com/106934852/201492095-a25ef0c9-645a-466e-90b5-49906600a26c.gif)
 
 - HTML stands for Hyper Text Markup Language
 - HTML is the standard markup language for creating Web pages
