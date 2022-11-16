@@ -1,0 +1,24 @@
+.center{ 
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;   
+    border: none;
+    cursor: pointer;   
+}
+
+body{
+    background: rgb(240, 251, 202);
+}
+
+.ff{
+    background: silver;
+}
