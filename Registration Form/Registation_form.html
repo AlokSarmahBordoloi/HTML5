@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Registration form</title>
+</head>
+<body>
+    
+    <form action="registrationform.php">
+
+
+        <h2>Registration Form</h2> 
+
+        <table  class="center">
+            <tr>
+                <td>Student No:</td>
+                <td><input type="number" name="sno" min="1"></td>
+            </tr>
+            <tr>
+                <td>Name:</td>
+                <td><input type="text" name="name"></td>
+            </tr>
+            <tr>
+                <td>Gender:</td>
+                <td>
+                    <input type="radio" name="gender" id="">Male
+                    <input type="radio" name="gender" id="">Female
+                    <input type="radio" name="gender" id="">Others
+                </td>
+            </tr>
+            <tr>
+                <td>Password:</td>
+                <td><input type="password" name="password" id=""></td>
+            </tr>
+            <tr>
+                <td>Branch:</td>
+                <td> <select name="Branch" id="">
+
+                    <option>SELECT</option>
+                    <option value="CSE">CSE</option>
+                    <option value="ECE">ECE</option>
+                    <option value="MCA">MCA</option>
+                    <option value="MECH">MECH</option>
+                    <option value="EEE">EEE</option>
+                </td>
+                </selec>
+            </tr>
+            <tr>
+                <td>Address:</td>
+                <td><textarea name="address" id="" cols="15" rows="4"></textarea></td>
+            </tr>
+            <td><input type="submit" name="submit" id=""></td>
+            <td><input type="reset" name="reset" id=""></td>
+        </table>
+
+
+    </form>
+
+</body>
+</html>
